@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TrabalhoFinalAndroid</string>
+    <string name="action_settings">Settings</string>
+
+    //lines to be added are below
+    <string name="login">LOGIN</string>
+    <string name="username">Nome</string>
+    <string name="password">Senha</string>
+    <string name="not_registered">Não e Registrado?</string>
+    <string name="register">Registrar</string>
+    <string name="confirm_password">Confirmar Senha</string>
+    <string name="already_registered">Já e registrado?</string>
+    <string name="welcome_user">Bem Vindo</string>
+    <string name="nome">Nome</string>
+    <string name="descriçao">Descrição</string>
+    <string name="data">Data</string>
+    <string name="valor">Valor</string>
+    <string name="qtvagas">Quantidade de Vagas</string>
+    <string name="local">Localização do Evento</string>
+    <string name="salvar">Salvar Evento</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="consulta">Consultar</string>
+    <string name="excluir">Excluir</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="telefone">Telefone</string>
+    <string name="inscreverser">Inscrever-Se</string>
+    <string name="menu_cadastar">Cadastrar No Evento</string>
+    <string name="nome_aluno">Nome do Aluno</string>
+    <string name="email_aluno">E-mail do Aluno</string>
+    <string name="salvar_aluno">Cadastrar Aluno</string>
+    <string name="visualizar">Visualizar</string>
+</resources>
